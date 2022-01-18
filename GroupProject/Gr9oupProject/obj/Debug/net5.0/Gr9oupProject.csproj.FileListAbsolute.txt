@@ -1,0 +1,5 @@
+C:\Users\ADMIN\Desktop\class\GroupProject\Gr9oupProject\obj\Debug\net5.0\Gr9oupProject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\class\GroupProject\Gr9oupProject\obj\Debug\net5.0\Gr9oupProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\class\GroupProject\Gr9oupProject\obj\Debug\net5.0\Gr9oupProject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\class\GroupProject\Gr9oupProject\obj\Debug\net5.0\Gr9oupProject.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\class\GroupProject\Gr9oupProject\obj\Debug\net5.0\Gr9oupProject.csproj.CoreCompileInputs.cache
