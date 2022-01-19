@@ -1,0 +1,15 @@
+C:\Users\ADMIN\Desktop\Push\bin\Debug\net6.0\Push.exe
+C:\Users\ADMIN\Desktop\Push\bin\Debug\net6.0\Push.deps.json
+C:\Users\ADMIN\Desktop\Push\bin\Debug\net6.0\Push.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Push\bin\Debug\net6.0\Push.dll
+C:\Users\ADMIN\Desktop\Push\bin\Debug\net6.0\ref\Push.dll
+C:\Users\ADMIN\Desktop\Push\bin\Debug\net6.0\Push.pdb
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.dll
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\ref\Push.dll
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.pdb
+C:\Users\ADMIN\Desktop\Push\obj\Debug\net6.0\Push.genruntimeconfig.cache
